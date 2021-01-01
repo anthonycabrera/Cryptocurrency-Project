@@ -1,0 +1,1004 @@
+{
+ "coin": [
+  {
+   "name": "Bitcoin",
+   "price": "$29,127.37",
+   "price_url": "https://coinmarketcap.com/currencies/bitcoin/markets/",
+   "performance": "1.58%",
+   "market_cap": "$541,095,419,923",
+   "volume_price": "$46,945,805,247",
+   "volume_price_url": "https://coinmarketcap.com/currencies/bitcoin/markets/",
+   "circulating": "18,586,756 BTC"
+  },
+  {
+   "name": "Ethereum",
+   "price": "$741.58",
+   "price_url": "https://coinmarketcap.com/currencies/ethereum/markets/",
+   "performance": "1.09%",
+   "market_cap": "$84,587,018,640",
+   "volume_price": "$15,536,148,606",
+   "volume_price_url": "https://coinmarketcap.com/currencies/ethereum/markets/",
+   "circulating": "114,062,878 ETH"
+  },
+  {
+   "name": "Tether",
+   "price": "$1.00",
+   "price_url": "https://coinmarketcap.com/currencies/tether/markets/",
+   "performance": "0.14%",
+   "market_cap": "$20,940,907,073",
+   "volume_price": "$63,355,585,775",
+   "volume_price_url": "https://coinmarketcap.com/currencies/tether/markets/",
+   "circulating": "20,926,936,250 USDT"
+  },
+  {
+   "name": "XRP",
+   "price": "$0.224794",
+   "price_url": "https://coinmarketcap.com/currencies/xrp/markets/",
+   "performance": "12.04%",
+   "market_cap": "$10,192,133,739",
+   "volume_price": "$5,695,257,852",
+   "volume_price_url": "https://coinmarketcap.com/currencies/xrp/markets/",
+   "circulating": "45,404,028,640 XRP"
+  },
+  {
+   "name": "Litecoin",
+   "price": "$124.24",
+   "price_url": "https://coinmarketcap.com/currencies/litecoin/markets/",
+   "performance": "2.61%",
+   "market_cap": "$8,237,517,330",
+   "volume_price": "$6,319,060,583",
+   "volume_price_url": "https://coinmarketcap.com/currencies/litecoin/markets/",
+   "circulating": "66,211,668 LTC"
+  },
+  {
+   "name": "Polkadot",
+   "price": "$8.72",
+   "price_url": "https://coinmarketcap.com/currencies/polkadot-new/markets/",
+   "performance": "19.42%",
+   "market_cap": "$7,805,617,165",
+   "volume_price": "$2,430,013,664",
+   "volume_price_url": "https://coinmarketcap.com/currencies/polkadot-new/markets/",
+   "circulating": "895,159,326 DOT"
+  },
+  {
+   "name": "Bitcoin Cash",
+   "price": "$343.60",
+   "price_url": "https://coinmarketcap.com/currencies/bitcoin-cash/markets/",
+   "performance": "2.93%",
+   "market_cap": "$6,377,422,643",
+   "volume_price": "$3,841,275,375",
+   "volume_price_url": "https://coinmarketcap.com/currencies/bitcoin-cash/markets/",
+   "circulating": "18,600,863 BCH"
+  },
+  {
+   "name": "Cardano",
+   "price": "$0.180862",
+   "price_url": "https://coinmarketcap.com/currencies/cardano/markets/",
+   "performance": "1.61%",
+   "market_cap": "$5,628,950,243",
+   "volume_price": "$1,193,518,997",
+   "volume_price_url": "https://coinmarketcap.com/currencies/cardano/markets/",
+   "circulating": "31,112,484,646 ADA"
+  },
+  {
+   "name": "Binance Coin",
+   "price": "$37.11",
+   "price_url": "https://coinmarketcap.com/currencies/binance-coin/markets/",
+   "performance": "1.51%",
+   "market_cap": "$5,361,869,197",
+   "volume_price": "$415,413,177",
+   "volume_price_url": "https://coinmarketcap.com/currencies/binance-coin/markets/",
+   "circulating": "144,406,561 BNB"
+  },
+  {
+   "name": "Chainlink",
+   "price": "$11.23",
+   "price_url": "https://coinmarketcap.com/currencies/chainlink/markets/",
+   "performance": "0.04%",
+   "market_cap": "$4,472,089,235",
+   "volume_price": "$1,179,924,736",
+   "volume_price_url": "https://coinmarketcap.com/currencies/chainlink/markets/",
+   "circulating": "398,509,556 LINK"
+  },
+  {
+   "name": "USD Coin",
+   "price": "$0.999917",
+   "price_url": "https://coinmarketcap.com/currencies/usd-coin/markets/",
+   "performance": "0.01%",
+   "market_cap": "$3,886,995,001",
+   "volume_price": "$1,108,565,138",
+   "volume_price_url": "https://coinmarketcap.com/currencies/usd-coin/markets/",
+   "circulating": "3,887,315,922 USDC"
+  },
+  {
+   "name": "Wrapped Bitcoin",
+   "price": "$29,072.31",
+   "price_url": "https://coinmarketcap.com/currencies/wrapped-bitcoin/markets/",
+   "performance": "1.72%",
+   "market_cap": "$3,363,983,774",
+   "volume_price": "$77,172,649",
+   "volume_price_url": "https://coinmarketcap.com/currencies/wrapped-bitcoin/markets/",
+   "circulating": "115,711 WBTC"
+  },
+  {
+   "name": "Bitcoin SV",
+   "price": "$163.11",
+   "price_url": "https://coinmarketcap.com/currencies/bitcoin-sv/markets/",
+   "performance": "2.62%",
+   "market_cap": "$3,035,925,556",
+   "volume_price": "$361,673,455",
+   "volume_price_url": "https://coinmarketcap.com/currencies/bitcoin-sv/markets/",
+   "circulating": "18,612,520 BSV"
+  },
+  {
+   "name": "Monero",
+   "price": "$157.49",
+   "price_url": "https://coinmarketcap.com/currencies/monero/markets/",
+   "performance": "0.92%",
+   "market_cap": "$2,803,471,115",
+   "volume_price": "$1,039,116,306",
+   "volume_price_url": "https://coinmarketcap.com/currencies/monero/markets/",
+   "circulating": "17,800,905 XMR"
+  },
+  {
+   "name": "Stellar",
+   "price": "$0.126840",
+   "price_url": "https://coinmarketcap.com/currencies/stellar/markets/",
+   "performance": "4.05%",
+   "market_cap": "$2,779,658,321",
+   "volume_price": "$474,808,189",
+   "volume_price_url": "https://coinmarketcap.com/currencies/stellar/markets/",
+   "circulating": "21,914,610,227 XLM"
+  },
+  {
+   "name": "EOS",
+   "price": "$2.59",
+   "price_url": "https://coinmarketcap.com/currencies/eos/markets/",
+   "performance": "0.13%",
+   "market_cap": "$2,430,121,008",
+   "volume_price": "$2,203,223,564",
+   "volume_price_url": "https://coinmarketcap.com/currencies/eos/markets/",
+   "circulating": "939,082,350 EOS"
+  },
+  {
+   "name": "TRON",
+   "price": "$0.026729",
+   "price_url": "https://coinmarketcap.com/currencies/tron/markets/",
+   "performance": "0.86%",
+   "market_cap": "$1,915,384,944",
+   "volume_price": "$871,105,848",
+   "volume_price_url": "https://coinmarketcap.com/currencies/tron/markets/",
+   "circulating": "71,659,657,369 TRX"
+  },
+  {
+   "name": "THETA",
+   "price": "$1.85",
+   "price_url": "https://coinmarketcap.com/currencies/theta/markets/",
+   "performance": "15.00%",
+   "market_cap": "$1,849,810,231",
+   "volume_price": "$162,076,725",
+   "volume_price_url": "https://coinmarketcap.com/currencies/theta/markets/",
+   "circulating": "1,000,000,000 THETA"
+  },
+  {
+   "name": "NEM",
+   "price": "$0.199428",
+   "price_url": "https://coinmarketcap.com/currencies/nem/markets/",
+   "performance": "6.72%",
+   "market_cap": "$1,794,848,397",
+   "volume_price": "$201,785,980",
+   "volume_price_url": "https://coinmarketcap.com/currencies/nem/markets/",
+   "circulating": "8,999,999,999 XEM"
+  },
+  {
+   "name": "Tezos",
+   "price": "$2.00",
+   "price_url": "https://coinmarketcap.com/currencies/tezos/markets/",
+   "performance": "0.50%",
+   "market_cap": "$1,512,145,350",
+   "volume_price": "$154,523,016",
+   "volume_price_url": "https://coinmarketcap.com/currencies/tezos/markets/",
+   "circulating": "755,249,675 XTZ"
+  },
+  {
+   "name": "Uniswap",
+   "price": "$5.13",
+   "price_url": "https://coinmarketcap.com/currencies/uniswap/markets/",
+   "performance": "24.52%",
+   "market_cap": "$1,376,136,468",
+   "volume_price": "$1,367,055,186",
+   "volume_price_url": "https://coinmarketcap.com/currencies/uniswap/markets/",
+   "circulating": "268,434,256 UNI"
+  },
+  {
+   "name": "UNUS SED LEO",
+   "price": "$1.36",
+   "price_url": "https://coinmarketcap.com/currencies/unus-sed-leo/markets/",
+   "performance": "0.17%",
+   "market_cap": "$1,354,546,807",
+   "volume_price": "$14,419,543",
+   "volume_price_url": "https://coinmarketcap.com/currencies/unus-sed-leo/markets/",
+   "circulating": "999,498,893 LEO"
+  },
+  {
+   "name": "Celsius",
+   "price": "$5.54",
+   "price_url": "https://coinmarketcap.com/currencies/celsius/markets/",
+   "performance": "0.12%",
+   "market_cap": "$1,323,990,752",
+   "volume_price": "$18,860,506",
+   "volume_price_url": "https://coinmarketcap.com/currencies/celsius/markets/",
+   "circulating": "238,863,520 CEL"
+  },
+  {
+   "name": "Crypto.com Coin",
+   "price": "$0.058625",
+   "price_url": "https://coinmarketcap.com/currencies/crypto-com-coin/markets/",
+   "performance": "0.77%",
+   "market_cap": "$1,316,459,128",
+   "volume_price": "$38,796,933",
+   "volume_price_url": "https://coinmarketcap.com/currencies/crypto-com-coin/markets/",
+   "circulating": "22,455,707,761 CRO"
+  },
+  {
+   "name": "Cosmos",
+   "price": "$6.09",
+   "price_url": "https://coinmarketcap.com/currencies/cosmos/markets/",
+   "performance": "11.39%",
+   "market_cap": "$1,266,600,012",
+   "volume_price": "$471,605,982",
+   "volume_price_url": "https://coinmarketcap.com/currencies/cosmos/markets/",
+   "circulating": "208,091,910 ATOM"
+  },
+  {
+   "name": "VeChain",
+   "price": "$0.018643",
+   "price_url": "https://coinmarketcap.com/currencies/vechain/markets/",
+   "performance": "5.96%",
+   "market_cap": "$1,199,042,552",
+   "volume_price": "$205,264,659",
+   "volume_price_url": "https://coinmarketcap.com/currencies/vechain/markets/",
+   "circulating": "64,315,576,989 VET"
+  },
+  {
+   "name": "Dai",
+   "price": "$1.00",
+   "price_url": "https://coinmarketcap.com/currencies/multi-collateral-dai/markets/",
+   "performance": "0.16%",
+   "market_cap": "$1,171,254,866",
+   "volume_price": "$289,292,590",
+   "volume_price_url": "https://coinmarketcap.com/currencies/multi-collateral-dai/markets/",
+   "circulating": "1,165,785,175 DAI"
+  },
+  {
+   "name": "Filecoin",
+   "price": "$24.06",
+   "price_url": "https://coinmarketcap.com/currencies/filecoin/markets/",
+   "performance": "13.16%",
+   "market_cap": "$1,072,540,758",
+   "volume_price": "$362,762,390",
+   "volume_price_url": "https://coinmarketcap.com/currencies/filecoin/markets/",
+   "circulating": "44,584,205 FIL"
+  },
+  {
+   "name": "Aave",
+   "price": "$85.53",
+   "price_url": "https://coinmarketcap.com/currencies/aave/markets/",
+   "performance": "3.86%",
+   "market_cap": "$1,029,133,688",
+   "volume_price": "$201,908,730",
+   "volume_price_url": "https://coinmarketcap.com/currencies/aave/markets/",
+   "circulating": "12,032,835 AAVE"
+  },
+  {
+   "name": "Neo",
+   "price": "$14.25",
+   "price_url": "https://coinmarketcap.com/currencies/neo/markets/",
+   "performance": "2.95%",
+   "market_cap": "$1,005,074,405",
+   "volume_price": "$335,669,113",
+   "volume_price_url": "https://coinmarketcap.com/currencies/neo/markets/",
+   "circulating": "70,538,831 NEO"
+  },
+  {
+   "name": "Revain",
+   "price": "$0.011666",
+   "price_url": "https://coinmarketcap.com/currencies/revain/markets/",
+   "performance": "0.17%",
+   "market_cap": "$992,342,503",
+   "volume_price": "$8,041,274",
+   "volume_price_url": "https://coinmarketcap.com/currencies/revain/markets/",
+   "circulating": "85,061,485,690 REV"
+  },
+  {
+   "name": "Dash",
+   "price": "$99.22",
+   "price_url": "https://coinmarketcap.com/currencies/dash/markets/",
+   "performance": "1.55%",
+   "market_cap": "$982,091,108",
+   "volume_price": "$474,984,930",
+   "volume_price_url": "https://coinmarketcap.com/currencies/dash/markets/",
+   "circulating": "9,897,967 DASH"
+  },
+  {
+   "name": "Binance USD",
+   "price": "$1.00",
+   "price_url": "https://coinmarketcap.com/currencies/binance-usd/markets/",
+   "performance": "0.02%",
+   "market_cap": "$965,832,553",
+   "volume_price": "$1,258,172,470",
+   "volume_price_url": "https://coinmarketcap.com/currencies/binance-usd/markets/",
+   "circulating": "965,639,425 BUSD"
+  },
+  {
+   "name": "Zilliqa",
+   "price": "$0.082708",
+   "price_url": "https://coinmarketcap.com/currencies/zilliqa/markets/",
+   "performance": "6.26%",
+   "market_cap": "$893,140,400",
+   "volume_price": "$385,462,763",
+   "volume_price_url": "https://coinmarketcap.com/currencies/zilliqa/markets/",
+   "circulating": "10,798,717,162 ZIL"
+  },
+  {
+   "name": "Huobi Token",
+   "price": "$4.38",
+   "price_url": "https://coinmarketcap.com/currencies/huobi-token/markets/",
+   "performance": "1.44%",
+   "market_cap": "$875,829,410",
+   "volume_price": "$99,895,469",
+   "volume_price_url": "https://coinmarketcap.com/currencies/huobi-token/markets/",
+   "circulating": "200,076,194 HT"
+  },
+  {
+   "name": "IOTA",
+   "price": "$0.295240",
+   "price_url": "https://coinmarketcap.com/currencies/iota/markets/",
+   "performance": "0.73%",
+   "market_cap": "$820,627,162",
+   "volume_price": "$26,496,588",
+   "volume_price_url": "https://coinmarketcap.com/currencies/iota/markets/",
+   "circulating": "2,779,530,283 MIOTA"
+  },
+  {
+   "name": "Synthetix",
+   "price": "$7.30",
+   "price_url": "https://coinmarketcap.com/currencies/synthetix-network-token/markets/",
+   "performance": "1.44%",
+   "market_cap": "$806,413,395",
+   "volume_price": "$92,456,184",
+   "volume_price_url": "https://coinmarketcap.com/currencies/synthetix-network-token/markets/",
+   "circulating": "110,519,345 SNX"
+  },
+  {
+   "name": "Zcash",
+   "price": "$63.62",
+   "price_url": "https://coinmarketcap.com/currencies/zcash/markets/",
+   "performance": "0.95%",
+   "market_cap": "$687,742,807",
+   "volume_price": "$300,046,272",
+   "volume_price_url": "https://coinmarketcap.com/currencies/zcash/markets/",
+   "circulating": "10,810,150 ZEC"
+  },
+  {
+   "name": "yearn.finance",
+   "price": "$22,661.99",
+   "price_url": "https://coinmarketcap.com/currencies/yearn-finance/markets/",
+   "performance": "3.04%",
+   "market_cap": "$679,149,454",
+   "volume_price": "$341,277,829",
+   "volume_price_url": "https://coinmarketcap.com/currencies/yearn-finance/markets/",
+   "circulating": "29,969 YFI"
+  },
+  {
+   "name": "Ethereum Classic",
+   "price": "$5.66",
+   "price_url": "https://coinmarketcap.com/currencies/ethereum-classic/markets/",
+   "performance": "0.11%",
+   "market_cap": "$658,397,834",
+   "volume_price": "$716,486,199",
+   "volume_price_url": "https://coinmarketcap.com/currencies/ethereum-classic/markets/",
+   "circulating": "116,313,299 ETC"
+  },
+  {
+   "name": "Compound",
+   "price": "$147.62",
+   "price_url": "https://coinmarketcap.com/currencies/compound/markets/",
+   "performance": "2.53%",
+   "market_cap": "$651,563,534",
+   "volume_price": "$154,534,172",
+   "volume_price_url": "https://coinmarketcap.com/currencies/compound/markets/",
+   "circulating": "4,413,826 COMP"
+  },
+  {
+   "name": "Waves",
+   "price": "$6.08",
+   "price_url": "https://coinmarketcap.com/currencies/waves/markets/",
+   "performance": "8.75%",
+   "market_cap": "$632,166,763",
+   "volume_price": "$84,601,198",
+   "volume_price_url": "https://coinmarketcap.com/currencies/waves/markets/",
+   "circulating": "103,942,636 WAVES"
+  },
+  {
+   "name": "Dogecoin",
+   "price": "$0.004664",
+   "price_url": "https://coinmarketcap.com/currencies/dogecoin/markets/",
+   "performance": "1.44%",
+   "market_cap": "$595,812,722",
+   "volume_price": "$85,108,809",
+   "volume_price_url": "https://coinmarketcap.com/currencies/dogecoin/markets/",
+   "circulating": "127,748,316,518 DOGE"
+  },
+  {
+   "name": "Kusama",
+   "price": "$70.12",
+   "price_url": "https://coinmarketcap.com/currencies/kusama/markets/",
+   "performance": "11.15%",
+   "market_cap": "$593,946,412",
+   "volume_price": "$133,192,004",
+   "volume_price_url": "https://coinmarketcap.com/currencies/kusama/markets/",
+   "circulating": "8,470,098 KSM"
+  },
+  {
+   "name": "Maker",
+   "price": "$579.79",
+   "price_url": "https://coinmarketcap.com/currencies/maker/markets/",
+   "performance": "1.76%",
+   "market_cap": "$578,184,915",
+   "volume_price": "$32,747,921",
+   "volume_price_url": "https://coinmarketcap.com/currencies/maker/markets/",
+   "circulating": "997,228 MKR"
+  },
+  {
+   "name": "FTX Token",
+   "price": "$5.77",
+   "price_url": "https://coinmarketcap.com/currencies/ftx-token/markets/",
+   "performance": "0.80%",
+   "market_cap": "$544,720,509",
+   "volume_price": "$11,212,858",
+   "volume_price_url": "https://coinmarketcap.com/currencies/ftx-token/markets/",
+   "circulating": "94,346,958 FTT"
+  },
+  {
+   "name": "Decred",
+   "price": "$40.62",
+   "price_url": "https://coinmarketcap.com/currencies/decred/markets/",
+   "performance": "4.54%",
+   "market_cap": "$504,947,262",
+   "volume_price": "$17,354,502",
+   "volume_price_url": "https://coinmarketcap.com/currencies/decred/markets/",
+   "circulating": "12,432,036 DCR"
+  },
+  {
+   "name": "SushiSwap",
+   "price": "$2.73",
+   "price_url": "https://coinmarketcap.com/currencies/sushiswap/markets/",
+   "performance": "1.66%",
+   "market_cap": "$485,472,731",
+   "volume_price": "$229,297,586",
+   "volume_price_url": "https://coinmarketcap.com/currencies/sushiswap/markets/",
+   "circulating": "178,020,641 SUSHI"
+  },
+  {
+   "name": "OKB",
+   "price": "$7.99",
+   "price_url": "https://coinmarketcap.com/currencies/okb/markets/",
+   "performance": "4.38%",
+   "market_cap": "$479,517,553",
+   "volume_price": "$240,961,227",
+   "volume_price_url": "https://coinmarketcap.com/currencies/okb/markets/",
+   "circulating": "60,000,000 OKB"
+  },
+  {
+   "name": "The Graph",
+   "price": "$0.346690",
+   "price_url": "https://coinmarketcap.com/currencies/the-graph/markets/",
+   "performance": "5.97%",
+   "market_cap": "$431,860,551",
+   "volume_price": "$110,317,995",
+   "volume_price_url": "https://coinmarketcap.com/currencies/the-graph/markets/",
+   "circulating": "1,245,666,867 GRT"
+  },
+  {
+   "name": "UMA",
+   "price": "$7.66",
+   "price_url": "https://coinmarketcap.com/currencies/uma/markets/",
+   "performance": "3.95%",
+   "market_cap": "$425,138,471",
+   "volume_price": "$10,568,992",
+   "volume_price_url": "https://coinmarketcap.com/currencies/uma/markets/",
+   "circulating": "55,506,671 UMA"
+  },
+  {
+   "name": "Algorand",
+   "price": "$0.322709",
+   "price_url": "https://coinmarketcap.com/currencies/algorand/markets/",
+   "performance": "3.56%",
+   "market_cap": "$384,745,041",
+   "volume_price": "$60,058,787",
+   "volume_price_url": "https://coinmarketcap.com/currencies/algorand/markets/",
+   "circulating": "1,192,234,573 ALGO"
+  },
+  {
+   "name": "renBTC",
+   "price": "$29,075.82",
+   "price_url": "https://coinmarketcap.com/currencies/renbtc/markets/",
+   "performance": "1.66%",
+   "market_cap": "$382,641,682",
+   "volume_price": "$10,635,394",
+   "volume_price_url": "https://coinmarketcap.com/currencies/renbtc/markets/",
+   "circulating": "13,160 RENBTC"
+  },
+  {
+   "name": "Elrond",
+   "price": "$24.19",
+   "price_url": "https://coinmarketcap.com/currencies/elrond-egld/markets/",
+   "performance": "0.43%",
+   "market_cap": "$355,408,034",
+   "volume_price": "$17,481,000",
+   "volume_price_url": "https://coinmarketcap.com/currencies/elrond-egld/markets/",
+   "circulating": "14,689,506 EGLD"
+  },
+  {
+   "name": "Ontology",
+   "price": "$0.438304",
+   "price_url": "https://coinmarketcap.com/currencies/ontology/markets/",
+   "performance": "2.08%",
+   "market_cap": "$352,630,968",
+   "volume_price": "$69,096,718",
+   "volume_price_url": "https://coinmarketcap.com/currencies/ontology/markets/",
+   "circulating": "804,535,798 ONT"
+  },
+  {
+   "name": "OMG Network",
+   "price": "$2.49",
+   "price_url": "https://coinmarketcap.com/currencies/omg/markets/",
+   "performance": "2.39%",
+   "market_cap": "$349,356,814",
+   "volume_price": "$152,523,120",
+   "volume_price_url": "https://coinmarketcap.com/currencies/omg/markets/",
+   "circulating": "140,245,398 OMG"
+  },
+  {
+   "name": "DigiByte",
+   "price": "$0.024813",
+   "price_url": "https://coinmarketcap.com/currencies/digibyte/markets/",
+   "performance": "5.56%",
+   "market_cap": "$344,798,312",
+   "volume_price": "$16,366,588",
+   "volume_price_url": "https://coinmarketcap.com/currencies/digibyte/markets/",
+   "circulating": "13,895,781,142 DGB"
+  },
+  {
+   "name": "Terra",
+   "price": "$0.643438",
+   "price_url": "https://coinmarketcap.com/currencies/terra-luna/markets/",
+   "performance": "4.82%",
+   "market_cap": "$312,351,254",
+   "volume_price": "$19,750,694",
+   "volume_price_url": "https://coinmarketcap.com/currencies/terra-luna/markets/",
+   "circulating": "485,440,981 LUNA"
+  },
+  {
+   "name": "Nexo",
+   "price": "$0.553143",
+   "price_url": "https://coinmarketcap.com/currencies/nexo/markets/",
+   "performance": "1.24%",
+   "market_cap": "$309,760,162",
+   "volume_price": "$15,066,349",
+   "volume_price_url": "https://coinmarketcap.com/currencies/nexo/markets/",
+   "circulating": "560,000,011 NEXO"
+  },
+  {
+   "name": "Basic Attention Token",
+   "price": "$0.199559",
+   "price_url": "https://coinmarketcap.com/currencies/basic-attention-token/markets/",
+   "performance": "1.67%",
+   "market_cap": "$297,857,956",
+   "volume_price": "$134,019,583",
+   "volume_price_url": "https://coinmarketcap.com/currencies/basic-attention-token/markets/",
+   "circulating": "1,492,580,869 BAT"
+  },
+  {
+   "name": "BitTorrent",
+   "price": "$0.000287",
+   "price_url": "https://coinmarketcap.com/currencies/bittorrent/markets/",
+   "performance": "1.59%",
+   "market_cap": "$283,779,317",
+   "volume_price": "$75,112,222",
+   "volume_price_url": "https://coinmarketcap.com/currencies/bittorrent/markets/",
+   "circulating": "989,972,765,807 BTT"
+  },
+  {
+   "name": "Blockstack",
+   "price": "$0.393093",
+   "price_url": "https://coinmarketcap.com/currencies/blockstack/markets/",
+   "performance": "1.00%",
+   "market_cap": "$279,816,715",
+   "volume_price": "$1,912,946",
+   "volume_price_url": "https://coinmarketcap.com/currencies/blockstack/markets/",
+   "circulating": "711,834,032 STX"
+  },
+  {
+   "name": "Ren",
+   "price": "$0.314230",
+   "price_url": "https://coinmarketcap.com/currencies/ren/markets/",
+   "performance": "1.39%",
+   "market_cap": "$277,947,040",
+   "volume_price": "$54,612,677",
+   "volume_price_url": "https://coinmarketcap.com/currencies/ren/markets/",
+   "circulating": "884,532,525 REN"
+  },
+  {
+   "name": "TrueUSD",
+   "price": "$0.999616",
+   "price_url": "https://coinmarketcap.com/currencies/trueusd/markets/",
+   "performance": "0.02%",
+   "market_cap": "$274,925,788",
+   "volume_price": "$94,767,561",
+   "volume_price_url": "https://coinmarketcap.com/currencies/trueusd/markets/",
+   "circulating": "275,031,537 TUSD"
+  },
+  {
+   "name": "NEAR Protocol",
+   "price": "$1.36",
+   "price_url": "https://coinmarketcap.com/currencies/near-protocol/markets/",
+   "performance": "11.45%",
+   "market_cap": "$266,815,146",
+   "volume_price": "$27,161,000",
+   "volume_price_url": "https://coinmarketcap.com/currencies/near-protocol/markets/",
+   "circulating": "196,911,019 NEAR"
+  },
+  {
+   "name": "ICON",
+   "price": "$0.455904",
+   "price_url": "https://coinmarketcap.com/currencies/icon/markets/",
+   "performance": "4.03%",
+   "market_cap": "$264,150,687",
+   "volume_price": "$46,978,988",
+   "volume_price_url": "https://coinmarketcap.com/currencies/icon/markets/",
+   "circulating": "579,399,209 ICX"
+  },
+  {
+   "name": "0x",
+   "price": "$0.351680",
+   "price_url": "https://coinmarketcap.com/currencies/0x/markets/",
+   "performance": "1.56%",
+   "market_cap": "$263,679,982",
+   "volume_price": "$37,833,177",
+   "volume_price_url": "https://coinmarketcap.com/currencies/0x/markets/",
+   "circulating": "749,772,094 ZRX"
+  },
+  {
+   "name": "SwissBorg",
+   "price": "$0.264290",
+   "price_url": "https://coinmarketcap.com/currencies/swissborg/markets/",
+   "performance": "3.40%",
+   "market_cap": "$246,500,504",
+   "volume_price": "$2,854,242",
+   "volume_price_url": "https://coinmarketcap.com/currencies/swissborg/markets/",
+   "circulating": "932,687,845 CHSB"
+  },
+  {
+   "name": "Paxos Standard",
+   "price": "$0.998819",
+   "price_url": "https://coinmarketcap.com/currencies/paxos-standard/markets/",
+   "performance": "0.33%",
+   "market_cap": "$244,662,562",
+   "volume_price": "$145,624,434",
+   "volume_price_url": "https://coinmarketcap.com/currencies/paxos-standard/markets/",
+   "circulating": "244,951,954 PAX"
+  },
+  {
+   "name": "Avalanche",
+   "price": "$2.85",
+   "price_url": "https://coinmarketcap.com/currencies/avalanche/markets/",
+   "performance": "2.09%",
+   "market_cap": "$219,133,106",
+   "volume_price": "$15,087,452",
+   "volume_price_url": "https://coinmarketcap.com/currencies/avalanche/markets/",
+   "circulating": "76,937,055 AVAX"
+  },
+  {
+   "name": "Qtum",
+   "price": "$2.21",
+   "price_url": "https://coinmarketcap.com/currencies/qtum/markets/",
+   "performance": "0.24%",
+   "market_cap": "$215,802,067",
+   "volume_price": "$312,723,653",
+   "volume_price_url": "https://coinmarketcap.com/currencies/qtum/markets/",
+   "circulating": "97,518,200 QTUM"
+  },
+  {
+   "name": "Ampleforth",
+   "price": "$0.977949",
+   "price_url": "https://coinmarketcap.com/currencies/ampleforth/markets/",
+   "performance": "9.18%",
+   "market_cap": "$210,092,818",
+   "volume_price": "$18,379,360",
+   "volume_price_url": "https://coinmarketcap.com/currencies/ampleforth/markets/",
+   "circulating": "214,830,037 AMPL"
+  },
+  {
+   "name": "ABBC Coin",
+   "price": "$0.248936",
+   "price_url": "https://coinmarketcap.com/currencies/abbc-coin/markets/",
+   "performance": "6.83%",
+   "market_cap": "$209,820,118",
+   "volume_price": "$54,597,265",
+   "volume_price_url": "https://coinmarketcap.com/currencies/abbc-coin/markets/",
+   "circulating": "842,869,076 ABBC"
+  },
+  {
+   "name": "Hedera Hashgraph",
+   "price": "$0.031717",
+   "price_url": "https://coinmarketcap.com/currencies/hedera-hashgraph/markets/",
+   "performance": "2.14%",
+   "market_cap": "$209,425,989",
+   "volume_price": "$6,800,259",
+   "volume_price_url": "https://coinmarketcap.com/currencies/hedera-hashgraph/markets/",
+   "circulating": "6,603,011,778 HBAR"
+  },
+  {
+   "name": "Loopring",
+   "price": "$0.168619",
+   "price_url": "https://coinmarketcap.com/currencies/loopring/markets/",
+   "performance": "9.34%",
+   "market_cap": "$202,756,546",
+   "volume_price": "$20,946,566",
+   "volume_price_url": "https://coinmarketcap.com/currencies/loopring/markets/",
+   "circulating": "1,202,456,269 LRC"
+  },
+  {
+   "name": "Reserve Rights",
+   "price": "$0.020452",
+   "price_url": "https://coinmarketcap.com/currencies/reserve-rights/markets/",
+   "performance": "1.06%",
+   "market_cap": "$191,228,364",
+   "volume_price": "$101,126,788",
+   "volume_price_url": "https://coinmarketcap.com/currencies/reserve-rights/markets/",
+   "circulating": "9,349,999,000 RSR"
+  },
+  {
+   "name": "Celo",
+   "price": "$1.52",
+   "price_url": "https://coinmarketcap.com/currencies/celo/markets/",
+   "performance": "0.45%",
+   "market_cap": "$189,325,223",
+   "volume_price": "$1,294,770",
+   "volume_price_url": "https://coinmarketcap.com/currencies/celo/markets/",
+   "circulating": "124,447,717 CELO"
+  },
+  {
+   "name": "THORChain",
+   "price": "$1.17",
+   "price_url": "https://coinmarketcap.com/currencies/thorchain/markets/",
+   "performance": "3.40%",
+   "market_cap": "$184,892,176",
+   "volume_price": "$15,040,027",
+   "volume_price_url": "https://coinmarketcap.com/currencies/thorchain/markets/",
+   "circulating": "158,432,088 RUNE"
+  },
+  {
+   "name": "Energy Web Token",
+   "price": "$6.13",
+   "price_url": "https://coinmarketcap.com/currencies/energy-web-token/markets/",
+   "performance": "0.66%",
+   "market_cap": "$184,138,619",
+   "volume_price": "$781,403",
+   "volume_price_url": "https://coinmarketcap.com/currencies/energy-web-token/markets/",
+   "circulating": "30,062,138 EWT"
+  },
+  {
+   "name": "TerraUSD",
+   "price": "$0.999724",
+   "price_url": "https://coinmarketcap.com/currencies/terrausd/markets/",
+   "performance": "19.24%",
+   "market_cap": "$181,918,002",
+   "volume_price": "$7,110,219",
+   "volume_price_url": "https://coinmarketcap.com/currencies/terrausd/markets/",
+   "circulating": "181,968,310 UST"
+  },
+  {
+   "name": "Augur",
+   "price": "$16.25",
+   "price_url": "https://coinmarketcap.com/currencies/augur/markets/",
+   "performance": "0.80%",
+   "market_cap": "$178,770,867",
+   "volume_price": "$12,847,125",
+   "volume_price_url": "https://coinmarketcap.com/currencies/augur/markets/",
+   "circulating": "11,000,000 REP"
+  },
+  {
+   "name": "Theta Fuel",
+   "price": "$0.033828",
+   "price_url": "https://coinmarketcap.com/currencies/theta-fuel/markets/",
+   "performance": "19.00%",
+   "market_cap": "$167,876,190",
+   "volume_price": "$32,941,096",
+   "volume_price_url": "https://coinmarketcap.com/currencies/theta-fuel/markets/",
+   "circulating": "4,962,631,792 TFUEL"
+  },
+  {
+   "name": "Kyber Network",
+   "price": "$0.793555",
+   "price_url": "https://coinmarketcap.com/currencies/kyber-network/markets/",
+   "performance": "0.95%",
+   "market_cap": "$159,383,076",
+   "volume_price": "$24,813,624",
+   "volume_price_url": "https://coinmarketcap.com/currencies/kyber-network/markets/",
+   "circulating": "200,846,929 KNC"
+  },
+  {
+   "name": "HedgeTrade",
+   "price": "$0.463215",
+   "price_url": "https://coinmarketcap.com/currencies/hedgetrade/markets/",
+   "performance": "2.86%",
+   "market_cap": "$157,137,206",
+   "volume_price": "$621,194",
+   "volume_price_url": "https://coinmarketcap.com/currencies/hedgetrade/markets/",
+   "circulating": "339,231,468 HEDG"
+  },
+  {
+   "name": "NXM",
+   "price": "$25.97",
+   "price_url": "https://coinmarketcap.com/currencies/nxm/markets/",
+   "performance": "2.70%",
+   "market_cap": "$150,674,640",
+   "volume_price": "$17,106,667",
+   "volume_price_url": "https://coinmarketcap.com/currencies/nxm/markets/",
+   "circulating": "5,801,350 NXM"
+  },
+  {
+   "name": "Bitcoin Gold",
+   "price": "$8.38",
+   "price_url": "https://coinmarketcap.com/currencies/bitcoin-gold/markets/",
+   "performance": "1.43%",
+   "market_cap": "$146,828,561",
+   "volume_price": "$8,006,177",
+   "volume_price_url": "https://coinmarketcap.com/currencies/bitcoin-gold/markets/",
+   "circulating": "17,513,924 BTG"
+  },
+  {
+   "name": "Lisk",
+   "price": "$1.15",
+   "price_url": "https://coinmarketcap.com/currencies/lisk/markets/",
+   "performance": "1.22%",
+   "market_cap": "$145,987,172",
+   "volume_price": "$4,337,697",
+   "volume_price_url": "https://coinmarketcap.com/currencies/lisk/markets/",
+   "circulating": "126,808,698 LSK"
+  },
+  {
+   "name": "HUSD",
+   "price": "$0.998751",
+   "price_url": "https://coinmarketcap.com/currencies/husd/markets/",
+   "performance": "0.07%",
+   "market_cap": "$141,950,125",
+   "volume_price": "$66,299,319",
+   "volume_price_url": "https://coinmarketcap.com/currencies/husd/markets/",
+   "circulating": "142,127,660 HUSD"
+  },
+  {
+   "name": "MaidSafeCoin",
+   "price": "$0.309726",
+   "price_url": "https://coinmarketcap.com/currencies/maidsafecoin/markets/",
+   "performance": "3.93%",
+   "market_cap": "$140,167,339",
+   "volume_price": "$680,224",
+   "volume_price_url": "https://coinmarketcap.com/currencies/maidsafecoin/markets/",
+   "circulating": "452,552,412 MAID"
+  },
+  {
+   "name": "Siacoin",
+   "price": "$0.003084",
+   "price_url": "https://coinmarketcap.com/currencies/siacoin/markets/",
+   "performance": "9.85%",
+   "market_cap": "$139,509,924",
+   "volume_price": "$7,524,394",
+   "volume_price_url": "https://coinmarketcap.com/currencies/siacoin/markets/",
+   "circulating": "45,242,812,992 SC"
+  },
+  {
+   "name": "Quant",
+   "price": "$11.41",
+   "price_url": "https://coinmarketcap.com/currencies/quant/markets/",
+   "performance": "1.23%",
+   "market_cap": "$137,799,635",
+   "volume_price": "$1,320,870",
+   "volume_price_url": "https://coinmarketcap.com/currencies/quant/markets/",
+   "circulating": "12,072,738 QNT"
+  },
+  {
+   "name": "Nano",
+   "price": "$1.02",
+   "price_url": "https://coinmarketcap.com/currencies/nano/markets/",
+   "performance": "3.45%",
+   "market_cap": "$135,967,770",
+   "volume_price": "$6,161,190",
+   "volume_price_url": "https://coinmarketcap.com/currencies/nano/markets/",
+   "circulating": "133,248,297 NANO"
+  },
+  {
+   "name": "Ocean Protocol",
+   "price": "$0.320069",
+   "price_url": "https://coinmarketcap.com/currencies/ocean-protocol/markets/",
+   "performance": "1.70%",
+   "market_cap": "$134,117,640",
+   "volume_price": "$17,781,598",
+   "volume_price_url": "https://coinmarketcap.com/currencies/ocean-protocol/markets/",
+   "circulating": "419,026,837 OCEAN"
+  },
+  {
+   "name": "CyberVein",
+   "price": "$0.120007",
+   "price_url": "https://coinmarketcap.com/currencies/cybervein/markets/",
+   "performance": "1.10%",
+   "market_cap": "$127,255,465",
+   "volume_price": "$6,762,952",
+   "volume_price_url": "https://coinmarketcap.com/currencies/cybervein/markets/",
+   "circulating": "1,060,404,496 CVT"
+  },
+  {
+   "name": "Verge",
+   "price": "$0.007547",
+   "price_url": "https://coinmarketcap.com/currencies/verge/markets/",
+   "performance": "3.33%",
+   "market_cap": "$123,863,578",
+   "volume_price": "$2,711,485",
+   "volume_price_url": "https://coinmarketcap.com/currencies/verge/markets/",
+   "circulating": "16,411,957,743 XVG"
+  },
+  {
+   "name": "Bancor",
+   "price": "$1.27",
+   "price_url": "https://coinmarketcap.com/currencies/bancor/markets/",
+   "performance": "3.33%",
+   "market_cap": "$121,590,261",
+   "volume_price": "$26,417,019",
+   "volume_price_url": "https://coinmarketcap.com/currencies/bancor/markets/",
+   "circulating": "96,077,876 BNT"
+  },
+  {
+   "name": "Aragon",
+   "price": "$3.00",
+   "price_url": "https://coinmarketcap.com/currencies/aragon/markets/",
+   "performance": "0.37%",
+   "market_cap": "$118,910,994",
+   "volume_price": "$13,036,461",
+   "volume_price_url": "https://coinmarketcap.com/currencies/aragon/markets/",
+   "circulating": "39,609,523 ANT"
+  },
+  {
+   "name": "ZB Token",
+   "price": "$0.253696",
+   "price_url": "https://coinmarketcap.com/currencies/zb-token/markets/",
+   "performance": "0.10%",
+   "market_cap": "$117,534,662",
+   "volume_price": "$9,265,834",
+   "volume_price_url": "https://coinmarketcap.com/currencies/zb-token/markets/",
+   "circulating": "463,288,810 ZB"
+  },
+  {
+   "name": "Gnosis",
+   "price": "$76.77",
+   "price_url": "https://coinmarketcap.com/currencies/gnosis-gno/markets/",
+   "performance": "1.20%",
+   "market_cap": "$115,504,852",
+   "volume_price": "$234,081",
+   "volume_price_url": "https://coinmarketcap.com/currencies/gnosis-gno/markets/",
+   "circulating": "1,504,589 GNO"
+  },
+  {
+   "name": "Decentraland",
+   "price": "$0.077212",
+   "price_url": "https://coinmarketcap.com/currencies/decentraland/markets/",
+   "performance": "0.94%",
+   "market_cap": "$114,564,940",
+   "volume_price": "$10,536,178",
+   "volume_price_url": "https://coinmarketcap.com/currencies/decentraland/markets/",
+   "circulating": "1,483,774,248 MANA"
+  }
+ ]
+}
